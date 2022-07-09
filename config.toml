@@ -1,0 +1,74 @@
+baseURL = "https://vrchile.github.io"
+baseurl = "https://vrchile.github.io"
+disqusShortname = ""
+googleAnalytics = ""
+hasCJKLanguage = false
+languageCode = "en-us"
+paginate = 5
+preserveTaxonomyNames = true
+publishDir = "public"
+theme = "hugo-theme-cleanwhite"
+title = "VRChile"
+[markup]
+	[markup.highlight]
+		style = "dracula"
+	[markup.tableOfContents]
+		endLevel = 2
+		startLevel = 1
+[outputs]
+	home = ["HTML", "RSS"]
+[params]
+	SEOTitle = "VRChile"
+	about_me = true
+	algolia_apiKey = ""
+	algolia_appId = ""
+	algolia_indexName = ""
+	algolia_search = false
+	ba_track_id = ""
+	bookmarks = false
+	description = "Virtual Reality Chile"
+	disqus_proxy = ""
+	disqus_site = ""
+	featured_condition_size = 1
+	featured_tags = true
+	friends = false
+	header_image = "img/oculus.jpg.webp"
+	image_404 = "img/404-bg.jpg"
+	keyword = "vr, chile, vrchile, realidad virtual, virtual reality, oculus, steamvr, oculus quest, oculus rift, valve index"
+	leancloud_app_id = ""
+	leancloud_app_key = ""
+	omit_categories = false
+	page_view_conter = false
+	reward = false
+	sidebar_about_description = "Software Developer, Open Source Enthusiast and Life Adventurer"
+	sidebar_avatar = "img/zhaohuabing.png"
+	slogan = "Virtual Reality Chile"
+	title_404 = "No se encuentra :("
+	twikoo_env_id = ""
+	[[params.addtional_menus]]
+		href = "/archive/"
+		title = "ARCHIVE"
+	[[params.addtional_menus]]
+		href = "/notes/"
+		title = "NOTES"
+	[[params.addtional_menus]]
+		href = "/about/"
+		title = "ABOUT"
+	[[params.bookmark_link]]
+		href = "https://martinfowler.com"
+		title = "Martin Fowler"
+	[[params.bookmark_link]]
+		href = "http://www.servicemesher.com"
+		title = "ServiceMesher"
+	[[params.bookmark_link]]
+		href = "https://pxhere.com"
+		title = "Pxhere"
+	[[params.bookmark_link]]
+		href = "https://unsplash.com"
+		title = "unsplash"
+	[[params.friend_link]]
+		href = "https://zhaozhihan.com"
+		title = "Linda的博客"
+	[params.social]
+		email = "contacto@vrchile.club"
+		rss = true
