@@ -1,5 +1,4 @@
 baseURL = "https://vrchile.github.io"
-baseurl = "https://vrchile.github.io"
 disqusShortname = ""
 googleAnalytics = ""
 hasCJKLanguage = false
@@ -9,14 +8,17 @@ preserveTaxonomyNames = true
 publishDir = "public"
 theme = "hugo-theme-cleanwhite"
 title = "VRChile"
+
 [markup]
 	[markup.highlight]
 		style = "dracula"
 	[markup.tableOfContents]
 		endLevel = 2
 		startLevel = 1
+
 [outputs]
 	home = ["HTML", "RSS"]
+
 [params]
 	SEOTitle = "VRChile"
 	about_me = true
