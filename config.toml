@@ -1,4 +1,5 @@
-baseURL = "https://vrchile.github.io"
+baseURL = "http://vrchile.github.io"
+baseurl = "http://vrchile.github.io"
 disqusShortname = ""
 googleAnalytics = ""
 hasCJKLanguage = false
