@@ -1,14 +1,14 @@
 title:              VRChile
 email:              contacto@vrchile.club
-description:        Virtual Reality Chile
+description:        ¡Bienvenidos a la comunidad de VR Chile! Una comunidad para fans de la realidad virtual, usuarios de VR en cualquiera sus plataformas, grupo para encontrar amigos y hacer una comunidad de VR Gamers Chilenos
 author:             VRChile
 baseurl:            "/"
 url:                "https://vrchile.github.io"
 
 # Social Profiles
 #twitter_username:   vrchile
-#github_username:    vrchile
-#facebook_username:  chilevr
+github_username:    vrchile
+facebook_username:  groups/chilevr
 #instagram_username:  vrchile
 #linkedin_username:
 
