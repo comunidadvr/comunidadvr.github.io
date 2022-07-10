@@ -1,0 +1,25 @@
+title:              VRChile
+email:              contacto@vrchile.club
+description:        Virtual Reality Chile
+author:             VRChile
+baseurl:            "/"
+url:                "https://vrchile.github.io"
+
+# Social Profiles
+twitter_username:   vrchile
+github_username:    vrchile
+facebook_username:  chilevr
+instagram_username:  vrchile
+#linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
