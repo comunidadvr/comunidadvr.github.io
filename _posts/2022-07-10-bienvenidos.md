@@ -2,7 +2,7 @@
 layout: post
 title: "Bienvenidos a VRChile!"
 subtitle: "Una comunidad para fans de la realidad virtual"
-date: 2020-01-26 23:45:13 -0400
+date: 2022-07-10 10:45:00 -0400
 background: '/img/posts/oculus.jpg'
 ---
 
