@@ -1,3 +1,3 @@
 # VRChile
 
-[Como agregar un post](https://github.com/vrchile/vrchile.github.io/wiki/Como-agregar-un-post)
+Información de como agregar o editar posts en la wiki de este mismo repositorio
