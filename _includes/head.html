@@ -19,4 +19,16 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
+  <style>
+    img[src*='#left'] {
+        float: left;
+    }
+    img[src*='#right'] {
+        float: right;
+    }
+    img[src*='#center'] {
+        display: block;
+        margin: auto;
+    }
+  </style>
 </head>
