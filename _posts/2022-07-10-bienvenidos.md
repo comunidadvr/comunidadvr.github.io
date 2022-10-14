@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Bienvenidos a VRChile!"
+title: "Bienvenidos a Comunidad VR!"
 subtitle: "Una comunidad para fans de la realidad virtual"
 date: 2022-07-10 10:45:00 -0400
 background: '/img/posts/oculus.jpg'
 ---
 
-Somos una comunidad para fans de la realidad virtual, usuarios de VR en cualquiera sus plataformas, grupo para encontrar amigos y hacer una comunidad de VR Gamers Chilenos. Aquí podrán encontrar distintos temas sobre VR, pedir ayuda, dar sugerencias, entre otras cosas.
+Somos una comunidad para fans de la realidad virtual, usuarios de VR en cualquiera sus plataformas, grupo para encontrar amigos y hacer una comunidad de VR Gamers. Aquí podrán encontrar distintos temas sobre VR, pedir ayuda, dar sugerencias, entre otras cosas.
 
 _Ya que somos una comunidad pequeña esperamos no tener problemas pero aún así aquí van unas reglas básicas_
 
