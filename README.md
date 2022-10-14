@@ -1,6 +1,6 @@
-# VRChile
+# Comunidad VR
 
-Te gustaría colaborar con VRChile? es muy simple
+Te gustaría colaborar con Comunidad VR? es muy simple
 
 Para agregar/editar un post:
 
@@ -22,7 +22,7 @@ date: 2022-07-10 10:45:00 -0400
 background: '/img/posts/oculus.jpg'
 ---
 
-Somos una comunidad para fans de la realidad virtual, usuarios de VR en cualquiera sus plataformas, grupo para encontrar amigos y hacer una comunidad de VR Gamers Chilenos. Aquí podrán encontrar distintos temas sobre vr, pedir ayuda, dar sugerencias, entre otras cosas.
+Somos una comunidad para fans de la realidad virtual, usuarios de VR en cualquiera sus plataformas, grupo para encontrar amigos y hacer una comunidad de VR Gamers. Aquí podrán encontrar distintos temas sobre vr, pedir ayuda, dar sugerencias, entre otras cosas.
 
 Ya que somos una comunidad pequeña esperamos no tener problemas pero aún así aquí van unas reglas básicas
 
